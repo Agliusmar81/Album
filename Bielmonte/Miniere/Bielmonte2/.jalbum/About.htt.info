@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>authorImage</string>
+   <string>Aglio Marco</string>
+  </void>
+  <void method="put">
+   <string>aboutText</string>
+   <string>Amo la natura, amo gli animali, amo passare il tempo ammirando l&apos;infinito e contemplando il silenzio.
+Questa è la mia vita e la amo in ogni sfacettatura.</string>
+  </void>
+  <void method="put">
+   <string>aboutHeader</string>
+   <string></string>
+  </void>
+ </object>
+</java>

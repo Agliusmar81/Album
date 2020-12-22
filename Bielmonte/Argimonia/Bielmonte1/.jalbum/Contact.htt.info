@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>google_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>custom_link2</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>custom_link3</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>vimeo_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>tumblr_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>custom_link1</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>skype_id</string>
+   <string>marco.aglio</string>
+  </void>
+  <void method="put">
+   <string>originalHash</string>
+   <string>5263688cb3d2af608a3b5a8801f4bce2</string>
+  </void>
+  <void method="put">
+   <string>map_location</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>foursquare_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>twitter_id</string>
+   <string>agliusmar</string>
+  </void>
+  <void method="put">
+   <string>postal_address</string>
+   <string>Via Valsesia 17/A
+28100 Novara (NO)</string>
+  </void>
+  <void method="put">
+   <string>flickr_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>linkedin_id</string>
+   <string>marco-aglio-477213174</string>
+  </void>
+  <void method="put">
+   <string>youtube_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>facebook_id</string>
+   <string>marco.aglio</string>
+  </void>
+  <void method="put">
+   <string>instagram_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>jalbum_id</string>
+   <string>marcoa81</string>
+  </void>
+  <void method="put">
+   <string>email_address</string>
+   <string>marcoa.81@hotmail.it</string>
+  </void>
+  <void method="put">
+   <string>custom_linktext2</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>custom_linktext1</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>pinterest_id</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>custom_linktext3</string>
+   <string></string>
+  </void>
+  <void method="put">
+   <string>map_zoom</string>
+   <int>16</int>
+  </void>
+  <void method="put">
+   <string>phone_number</string>
+   <string>+393275329249</string>
+  </void>
+  <void method="put">
+   <string>originalPath</string>
+   <string>C:\Program Files\jAlbum\skins\Tiger\templates\Contact.htt</string>
+  </void>
+ </object>
+</java>

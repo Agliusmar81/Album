@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>duration</string>
+   <string>31</string>
+  </void>
+  <void method="put">
+   <string>select</string>
+   <string>original order</string>
+  </void>
+  <void method="put">
+   <string>startMonth</string>
+   <string>Dec</string>
+  </void>
+  <void method="put">
+   <string>originalHash</string>
+   <string>194ddef0e910eeacefd110fd7fde066c</string>
+  </void>
+  <void method="put">
+   <string>startDay</string>
+   <string>21</string>
+  </void>
+  <void method="put">
+   <string>startYear</string>
+   <string>2017</string>
+  </void>
+  <void method="put">
+   <string>originalPath</string>
+   <string>C:\Program Files\jAlbum\skins\Tiger\templates\AdventCalendar.htt</string>
+  </void>
+ </object>
+</java>
